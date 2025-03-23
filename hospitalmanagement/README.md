@@ -3,7 +3,7 @@
 
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/home.png?raw=true)
+![homepage snap](https://github.com/abhisheksonias/hospitalmanagement-master/blob/master/static/screenshots/home.png?raw=tru)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/admindash.png?raw=true)
 ### Invoice
