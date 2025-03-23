@@ -4,7 +4,7 @@
 ## screenshots
 ### Homepage
 ![homepage snap](./hospitalmanagement/static/screenshots/home.png)
-### Admin Dashboard
+### Admin dashboard..
 ![dashboard snap](./hospitalmanagement/static/screenshots/admindash.png)
 ### Invoice
 ![invoice snap](./hospitalmanagement/static/screenshots/bill.png)
