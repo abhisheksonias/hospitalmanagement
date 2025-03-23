@@ -3,13 +3,13 @@
 
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/home.png?raw=true)
+![homepage snap](./hospitalmanagement/static/screenshots/home.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/admindash.png?raw=true)
+![dashboard snap](./hospitalmanagement/static/screenshots/admindash.png)
 ### Invoice
-![invoice snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/bill.png?raw=true)
+![invoice snap](./hospitalmanagement/static/screenshots/bill.png)
 ### Doctor list
-![doctor snap](https://github.com/abhisheksonias/hospitalmanagement/blob/master/static/screenshots/doctordash.png?raw=true)
+![doctor snap](./hospitalmanagement/static/screenshots/doctordash.png)
 ---
 ## Functions
 ### Admin
